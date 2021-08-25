@@ -1,4 +1,5 @@
-# personalweb
+# Preview
+<img src=https://github.com/emrezeytun/portfolio-page-VueJS/blob/main/gif_personal.gif">
 
 ## Project setup
 ```
