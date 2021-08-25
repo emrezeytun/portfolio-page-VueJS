@@ -1,6 +1,6 @@
 ## Preview
 
-<img src="https://github.com/emrezeytun/chat-app-nodeJS/blob/main/chat_nodeJS.gif">
+<img src="https://github.com/emrezeytun/portfolio-page-VueJS/blob/main/gif_personal.gif">
 
 ## Project setup
 ```
